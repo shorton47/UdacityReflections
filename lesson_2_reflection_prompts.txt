@@ -5,8 +5,13 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+   
+   It allows you to make changes and check differences before they get committed to repository
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+   By using -> git diff   This will check differences between working directory and staging area and then you can check that you dont have too many changes
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
