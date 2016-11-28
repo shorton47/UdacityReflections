@@ -1,1 +1,4 @@
-I will be adding more reflections here:
+
+When would you want to use a remote repository rather than keeping all your work local?
+  Very important when you want to collborate on a project and additions come from multiple places. Also good as a backup
+  strategy so that your code survives regardless of a specific machine
